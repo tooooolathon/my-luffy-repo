@@ -4,7 +4,6 @@ def hash_password(password):
     pass
 
 def log(msg):
-    # TODO: Add logging to all functions
     print(f"[LOG] {msg}")
 
 # Remove this dead code
